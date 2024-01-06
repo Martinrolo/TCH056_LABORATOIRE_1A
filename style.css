@@ -1,0 +1,29 @@
+body {
+    background-color: #e8ffa7;
+}
+
+/*Style pour les hr*/
+hr {
+    width: 70%;
+}
+
+/*Style pour les images*/
+img {
+    border : 3px solid rgb(0, 0, 0);
+    border-radius: 50px;
+    display: inline-block;
+}
+
+h2 {
+    font-family: verdana;
+}
+
+table, tr, th, td {
+    border: 1px  solid rgb(48, 152, 208);
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+#lab {
+    color: red;
+}
